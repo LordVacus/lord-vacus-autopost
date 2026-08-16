@@ -1,0 +1,1 @@
+WEB PUBLICA V1. Antes de usarla con TikTok: desplegar en HTTPS, sustituir plantillas legales por datos reales, configurar soporte real, verificar URLs en TikTok Developer, configurar OAuth Redirect URI y backend seguro, y preparar el vídeo de demostración requerido.
